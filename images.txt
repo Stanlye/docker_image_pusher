@@ -10,4 +10,6 @@
 #minio/minio:RELEASE.2023-03-20T20-16-18Z
 #mysql:5.7.30
 #busybox:1.32
-bats/bats:1.2.1
+#bats/bats:1.2.1
+ollama:latest
+open-webui
