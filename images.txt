@@ -12,4 +12,3 @@
 #busybox:1.32
 #bats/bats:1.2.1
 ollama:latest
-open-webui
